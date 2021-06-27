@@ -1,0 +1,25 @@
+{
+    "descricao": "cadastro de pessoas",
+    "pessoas": [
+        {
+            "nome": "joão da silva",
+            "idade": 25,
+            "profissao": "medico"
+        },
+        {
+            "nome": "bruno sacramento",
+            "idade": 28,
+            "profissao": "daytrader"
+        },
+        {
+            "nome": "thiago phelippe",
+            "idade": 26,
+            "profissao": "contador"
+        },
+        {
+            "nome": "lucas phelippe",
+            "idade": 25,
+            "profissao": "team leader"
+        }
+    ]
+}
